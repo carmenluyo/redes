@@ -1644,3 +1644,51 @@ div#tree {
   color: #00869A;
   font-size: 20px;
 }
+.p1 {
+  animation-delay: 1.5s;
+}
+.p2 {
+  animation-delay: 2.5s;
+}
+.p3 {
+  animation-delay: 3.5s;
+}
+.p4 {
+  animation-delay: 4.5s;
+}
+.p5 {
+  animation-delay: 5.5s;
+}
+.p6 {
+  animation-delay: 6.5s;
+}
+
+/* ANIMACIONES DE CIRCULO */
+
+.circle-1-animacion {
+  animation-duration: 2s;
+  animation-delay: 1.5s;
+}
+
+.circle-2-animacion {
+  animation-duration: 2s;
+  animation-delay: 2.5s;
+}
+.circle-3-animacion {
+  animation-duration: 2s;
+  animation-delay: 3.5s;
+}
+
+.circle-4-animacion {
+  animation-duration: 2s;
+  animation-delay: 4.5s;
+}
+.circle-5-animacion {
+  animation-duration: 2s;
+  animation-delay: 5.5s;
+}
+
+.circle-6-animacion {
+  animation-duration: 2s;
+  animation-delay: 6.5s;
+}
