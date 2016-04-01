@@ -1603,3 +1603,38 @@ div#tree {
     border: 2px dashed;
     line-height: 30px;
 }
+
+/* color orange */
+.bg-orange-03 {
+  background-image: url('../img/11/fondo.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+} 
+.bg-orange-04 {
+  background-image: url('../img/18/fondo.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+} 
+/* color pink */
+
+.bg-pink-02 {
+  background-image: url('../img/27/fondo.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+} 
+
+/* color green */
+
+.bg-green-02 {
+  background-image: url('../img/49/fondo.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+} 
+
+/* purple */
+
+.bg-pruple-04 {
+  background-image: url('../img/63/fondo.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+} 
