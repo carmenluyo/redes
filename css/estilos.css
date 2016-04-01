@@ -606,7 +606,7 @@ input[type=checkbox]{
   color: rgb(249, 110, 65);
   border: 0px none;
   height: 85px;
-  margin-top: 20%;
+  margin-top: 25%;
   font-size: 30px;
   margin-bottom: 3%;
 }
@@ -1638,3 +1638,9 @@ div#tree {
   background-repeat: no-repeat;
   background-size: cover;
 } 
+
+.list > li {
+  list-style: none;
+  color: #00869A;
+  font-size: 20px;
+}
